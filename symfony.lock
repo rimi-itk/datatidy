@@ -17,6 +17,9 @@
     "behat/transliterator": {
         "version": "v1.2.0"
     },
+    "behatch/contexts": {
+        "version": "3.3.0"
+    },
     "brick/reflection": {
         "version": "0.3.0"
     },
@@ -115,22 +118,16 @@
         "version": "v2.3.0"
     },
     "easycorp/easy-log-handler": {
-        "version": "1.0",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "1.0",
-            "ref": "70062abc2cd58794d2a90274502f81b55cd9951b"
-        },
-        "files": [
-            "config/packages/dev/easy_log_handler.yaml"
-        ]
+        "version": "v1.0.9"
     },
     "egulias/email-validator": {
         "version": "2.1.11"
     },
     "felixfbecker/advanced-json-rpc": {
         "version": "v3.0.4"
+    },
+    "friends-of-behat/mink-extension": {
+        "version": "2.3.1"
     },
     "friends-of-behat/symfony-extension": {
         "version": "2.0",
@@ -191,6 +188,9 @@
     "jdorn/sql-formatter": {
         "version": "v1.2.17"
     },
+    "justinrainbow/json-schema": {
+        "version": "5.2.10"
+    },
     "league/csv": {
         "version": "9.4.1"
     },
@@ -240,6 +240,9 @@
     "php-cs-fixer/diff": {
         "version": "v1.3.0"
     },
+    "php-webdriver/webdriver": {
+        "version": "1.8.2"
+    },
     "phpdocumentor/reflection-common": {
         "version": "2.0.0"
     },
@@ -266,6 +269,12 @@
     },
     "psr/log": {
         "version": "1.1.0"
+    },
+    "robertfausk/behat-panther-extension": {
+        "version": "v1.0.1"
+    },
+    "robertfausk/mink-panther-driver": {
+        "version": "v1.0.2"
     },
     "sabre/event": {
         "version": "5.0.3"
@@ -504,6 +513,9 @@
     },
     "symfony/orm-pack": {
         "version": "v1.0.6"
+    },
+    "symfony/panther": {
+        "version": "v0.6.1"
     },
     "symfony/phpunit-bridge": {
         "version": "4.3",
